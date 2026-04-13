@@ -19,7 +19,7 @@ This project presents a low-cost system to control a computer using eye movement
 The user looks at a moving box on the screen while the system records the pupil position. Each data pair box position and pupil position is saved as calibration data and used to train a model that maps eye movement to cursor position.
 
 <p align="center">
-  <img src="Calib.png" alt="Calibration Process" width="100%">
+  <img src="calib.png" alt="Calibration Process" width="100%">
 </p>
 <p align="center"><i>Figure 1. Calibration process.</i></p>
 
