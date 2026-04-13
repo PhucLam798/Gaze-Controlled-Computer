@@ -32,5 +32,4 @@ The user looks at a moving box on the screen while the system records the pupil 
 ---
 
 ## **Contributors**
-**Quan Cao**  
 **Lam Phuc**
