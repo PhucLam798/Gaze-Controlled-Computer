@@ -14,7 +14,7 @@ This project presents a low-cost system to control a computer using eye movement
 
 ---
 
-## **Calibration and Gaze-Controlled Result**
+## **Calibration Result**
 
 The user looks at a moving box on the screen while the system records the pupil position. Each data pair box position and pupil position is saved as calibration data and used to train a model that maps eye movement to cursor position.
 
