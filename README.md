@@ -31,5 +31,14 @@ The user looks at a moving box on the screen while the system records the pupil 
 
 ---
 
+## **Gaze Tracking Result**
+
+To evaluate the accuracy of the Gaze Tracking system, the user is asked to look at fixed points on the screen. At each point, the system records the actual position and the predicted position. The error is calculated as the distance between these two positions and is converted to centimeters (cm). The test results on 20 points show an average error of about 1.89 cm.
+
+<p align="center">
+  <img src="gaze.png" alt="Calibration Process" width="100%">
+</p>
+<p align="center"><i>Figure 1. Error Gaze Tracking System.</i></p>
+
 ## **Contributors**
 **Lam Phuc**
