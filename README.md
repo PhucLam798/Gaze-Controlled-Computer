@@ -40,5 +40,7 @@ To evaluate the accuracy of the Gaze Tracking system, the user is asked to look 
 </p>
 <p align="center"><i>Figure 1. Error Gaze Tracking System.</i></p>
 
+---
+
 ## **Contributors**
 **Lam Phuc**
