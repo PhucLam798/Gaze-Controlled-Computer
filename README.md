@@ -38,7 +38,7 @@ To evaluate the accuracy of the Gaze Tracking system, the user is asked to look 
 <p align="center">
   <img src="gaze.png" alt="Calibration Process" width="100%">
 </p>
-<p align="center"><i>Figure 1. Error Gaze Tracking System.</i></p>
+<p align="center"><i>Figure 1. Error of the Gaze Tracking System on 20 test points.</i></p>
 
 ---
 
